@@ -1,0 +1,47 @@
+body {
+  background-color: #700a0a;
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+  text-size-adjust: 300;
+}
+
+h2 {
+  padding: 10px;
+  text-align: center;
+  color: #e0bf5c;
+}
+
+h3 {
+  padding: 10px;
+  text-align: center;
+  color: #e0bf5c;
+}
+
+a {
+  text-decoration: none;
+  color: #e0bf5c;
+}
+
+p {
+  font-family: "News Cycle", serif;
+  padding: 10px;
+  text-align: center;
+  color: #e0bf5c;
+}
+
+footer {
+  color: #e0bf5c;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+article {
+  padding: 100px;
+  text-align: center;
+  color: #34c3eb;
+}
